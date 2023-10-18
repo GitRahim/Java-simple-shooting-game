@@ -1,0 +1,7 @@
+ 
+Board: 10*10   Proportion of trenches: 4   Time: 70 seconds 
+Board: 15*15   Proportion of trenches: 3   Time: 140 seconds 
+Board: 15*15   Proportion of trenches: 3   Time: 100 seconds 
+Board: 15*15   Proportion of trenches: 3   Time: 56 seconds 
+Board: 12*12   Proportion of trenches: 2   Time: 64 seconds 
+Board: 10*10   Proportion of trenches: 4   Time: 54 seconds
